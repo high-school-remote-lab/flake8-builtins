@@ -8,6 +8,7 @@ WHITE_LIST = [
     '__name__',
     '__doc__',
     'credits',
+    'license',
 ]
 
 
